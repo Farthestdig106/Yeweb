@@ -1,0 +1,11 @@
+body{
+    background-image:url(../img/tcd.jpg), linear-gradient(rgba(0, 0, 0, 0.4)),rgba(0,0,0,0.4);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p{
+    color: #ffffff;
+}
